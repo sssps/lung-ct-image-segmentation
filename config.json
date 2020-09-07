@@ -1,0 +1,16 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/Lungct",
+		"prod_uri":"mysql://root:@localhost/Lungct",
+		"fb_url":"https://facebook.com/Lungct",
+		"tw_url":"https://twitter.com/Lungct",
+		"git_url":"https://github.com/Lungct",
+		"blog_name":"Lungct",
+		"login_image":"login.jpeg",
+		"gmail_user":"demoproject58@gmail.com",
+		"gmail_password":"project@123"
+
+	}
+} 
